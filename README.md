@@ -36,8 +36,6 @@ Outside of work, I’m usually experimenting with software, electronics, or hard
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/OpenStack-E8710A?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" />
-  <img src="https://img.shields.io/badge/Azure%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Sentinel" />
 </p>
 
 ## GitHub Stats
