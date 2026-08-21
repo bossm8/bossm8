@@ -41,7 +41,7 @@ Outside of work, I’m usually experimenting with software, electronics, or hard
 ## GitHub Stats
 <p align="left">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=bossm8&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bossm8&layout=compact&hide_title=true" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=bossm8&hide_progress=true&langs_count=10" alt="Top languages" />
 </p>
 
 ## Find me
