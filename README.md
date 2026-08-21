@@ -46,4 +46,6 @@ Outside of work, I’m usually experimenting with software, electronics, or hard
 
 ## Find me
 - Web: [me.bossm8.ch](https://me.bossm8.ch)
+- Medium: [@bossm8](https://medium.com/@bossm8)
+- Credly: [bossm8](https://www.credly.com/users/bossm8)
 - GitHub: [@bossm8](https://github.com/bossm8)
