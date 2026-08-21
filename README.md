@@ -11,7 +11,7 @@
 
 I build and automate infrastructure, work on security-minded systems, and enjoy making complex environments feel a little more manageable.
 
-Outside of work, I’m usually experimenting with software, electronics, or hardware — mostly to see what I can build, automate, break, and fix again.
+Outside of work, I’m usually experimenting with software, electronics, or hardware, mostly to see what I can build, automate, break, and fix again.
 
 ## Interests
 - cloud-native technologies
